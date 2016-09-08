@@ -10,6 +10,6 @@ We used Benford's Law of first digits to show that allegations of electoral [fra
 #Tools
 Numpy, Pandas, matplotlib, scipy.
 
-#Snapshot of results.
+#Snapshot of Results
 
 ![image](https://github.com/gmsardane/Phil-VP-Elections/blob/master/git_distribution_new.gif)
