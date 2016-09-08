@@ -8,7 +8,7 @@ The analysis used data scraped from a Philippine news website compiled [here](ht
 We used Benford's Law of first digits to show that allegations of electoral [fraud](http://time.com/4327269/ferdinand-marcos-junior-bongbong-vice-president/) by Bongbong Marcos is unlikely.
 
 #Tools
-Numpy, Pandas, matplotlib.
+Numpy, Pandas, matplotlib, scipy.
 
 #Snapshot of results.
 
