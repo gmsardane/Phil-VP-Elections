@@ -7,6 +7,9 @@ and now is also hosted on [adalace.org](http://www.adalace.org/posts/ipython-not
 The analysis used data scraped from a Philippine news website compiled [here](https://gist.github.com/reinareyes/b32fc96972bbb9c3d0a9d754ab02d024). 
 We used Benford's Law of first digits to show that allegations of electoral [fraud](http://time.com/4327269/ferdinand-marcos-junior-bongbong-vice-president/) by Bongbong Marcos is unlikely.
 
+
+A review of Benford's law can be found [here](https://en.wikipedia.org/wiki/Benford%27s_law), and its relevance to fraud detection.
+
 #Tools
 Numpy, Pandas, matplotlib, scipy.
 
