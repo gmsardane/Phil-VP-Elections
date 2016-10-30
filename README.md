@@ -10,7 +10,7 @@ We used Benford's Law of first digits to show that allegations of electoral [fra
 
 A review of Benford's law can be found [here](https://en.wikipedia.org/wiki/Benford%27s_law), and its relevance to fraud detection.
 
-#Tools
+#Tools/Software Requirements:
 Numpy, Pandas, matplotlib, scipy.
 
 #Snapshot of Results
